@@ -1,7 +1,3 @@
-# Project1
-
-# Project1
-
 **Project 1 - Sports League Management Program - (100 points)**
 
 Due date: September 27, 2021 at 11:59pm
